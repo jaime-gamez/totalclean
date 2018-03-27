@@ -1,0 +1,12 @@
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\bin\Any CPU\Release\netcoreapp2.0\totalclean.deps.json
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\bin\Any CPU\Release\netcoreapp2.0\totalclean.runtimeconfig.json
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\bin\Any CPU\Release\netcoreapp2.0\totalclean.runtimeconfig.dev.json
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\bin\Any CPU\Release\netcoreapp2.0\totalclean.dll
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\bin\Any CPU\Release\netcoreapp2.0\totalclean.pdb
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\totalclean.csprojResolveAssemblyReference.cache
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\totalclean.csproj.CoreCompileInputs.cache
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\totalclean.AssemblyInfoInputs.cache
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\totalclean.AssemblyInfo.cs
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\totalclean.dll
+C:\personal\proyectos\TotalClean\visualstudio\totalclean\totalclean\obj\Any CPU\Release\netcoreapp2.0\totalclean.pdb
